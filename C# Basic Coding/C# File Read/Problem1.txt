@@ -1,0 +1,28 @@
+An underwater robot can take a series of commands like forward 1, down 2, or up 3:
+
+forward n increases the horizontal position by n.
+down n increases the depth by n.
+up n decreases the depth by n.
+Note that since the robot is underwater, down and up affect your depth, and so they have the opposite result of what you might expect.  
+
+Let's figure out where the robot is going. For example:
+
+forward 6
+down 4
+forward 10
+up 2
+down 5
+forward 3
+Your horizontal position and depth both start at 0. The steps above would then modify them as follows:
+
+forward 6 adds 6 to your horizontal position, a total of 6.
+down 4 adds 4 to your depth, resulting in a value of 4.
+forward 10 adds 10 to your horizontal position, a total of 16.
+up 2 decreases your depth by 2, resulting in a value of 2.
+down 5 adds 5 to your depth, resulting in a value of 7.
+forward 3 adds 3 to your horizontal position, a total of 19.
+After following these instructions, you would have a horizontal position of 19 and a depth of 7. (Multiplying these together produces 133.)
+
+Read the attached txt file which contains all the commands.  Write a program to read the commands and then calculate the horizontal position and depth you would have after following the planned course. What do you get if you multiply your final horizontal position by your final depth?  The output should be a string as follows: "Horizontal={x},Depth={y},FinalPosition={z}" where x = horizontal position, y = depth, and z = final position
+
+Bonus: Make sure each line of input is a valid command before processing and make sure no command takes us above water.

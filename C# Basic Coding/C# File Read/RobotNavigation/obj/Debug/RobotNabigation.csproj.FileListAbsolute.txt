@@ -1,0 +1,8 @@
+C:\Users\Nina\Source\repos\RobotNabigation\bin\Debug\RobotNabigation.exe.config
+C:\Users\Nina\Source\repos\RobotNabigation\bin\Debug\RobotNabigation.exe
+C:\Users\Nina\Source\repos\RobotNabigation\bin\Debug\RobotNabigation.pdb
+C:\Users\Nina\Source\repos\RobotNabigation\obj\Debug\RobotNabigation.csproj.AssemblyReference.cache
+C:\Users\Nina\Source\repos\RobotNabigation\obj\Debug\RobotNabigation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nina\Source\repos\RobotNabigation\obj\Debug\RobotNabigation.csproj.CoreCompileInputs.cache
+C:\Users\Nina\Source\repos\RobotNabigation\obj\Debug\RobotNabigation.exe
+C:\Users\Nina\Source\repos\RobotNabigation\obj\Debug\RobotNabigation.pdb

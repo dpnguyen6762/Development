@@ -1,0 +1,16 @@
+C:\Users\Dean\source\repos\dpnguyen6762\Main\RestaurantReservation\bin\Debug\RestaurantReservation.exe.config
+C:\Users\Dean\source\repos\dpnguyen6762\Main\RestaurantReservation\bin\Debug\RestaurantReservation.exe
+C:\Users\Dean\source\repos\dpnguyen6762\Main\RestaurantReservation\bin\Debug\RestaurantReservation.pdb
+C:\Users\Dean\source\repos\dpnguyen6762\Main\RestaurantReservation\obj\Debug\RestaurantReservation.csproj.AssemblyReference.cache
+C:\Users\Dean\source\repos\dpnguyen6762\Main\RestaurantReservation\obj\Debug\RestaurantReservation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dean\source\repos\dpnguyen6762\Main\RestaurantReservation\obj\Debug\RestaurantReservation.csproj.CoreCompileInputs.cache
+C:\Users\Dean\source\repos\dpnguyen6762\Main\RestaurantReservation\obj\Debug\RestaurantReservation.exe
+C:\Users\Dean\source\repos\dpnguyen6762\Main\RestaurantReservation\obj\Debug\RestaurantReservation.pdb
+C:\Users\Dean\source\repos\dpnguyen6762\Main\C# Basic Coding\RestaurantReservation\bin\Debug\RestaurantReservation.exe.config
+C:\Users\Dean\source\repos\dpnguyen6762\Main\C# Basic Coding\RestaurantReservation\bin\Debug\RestaurantReservation.exe
+C:\Users\Dean\source\repos\dpnguyen6762\Main\C# Basic Coding\RestaurantReservation\bin\Debug\RestaurantReservation.pdb
+C:\Users\Dean\source\repos\dpnguyen6762\Main\C# Basic Coding\RestaurantReservation\obj\Debug\RestaurantReservation.csproj.AssemblyReference.cache
+C:\Users\Dean\source\repos\dpnguyen6762\Main\C# Basic Coding\RestaurantReservation\obj\Debug\RestaurantReservation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dean\source\repos\dpnguyen6762\Main\C# Basic Coding\RestaurantReservation\obj\Debug\RestaurantReservation.csproj.CoreCompileInputs.cache
+C:\Users\Dean\source\repos\dpnguyen6762\Main\C# Basic Coding\RestaurantReservation\obj\Debug\RestaurantReservation.exe
+C:\Users\Dean\source\repos\dpnguyen6762\Main\C# Basic Coding\RestaurantReservation\obj\Debug\RestaurantReservation.pdb
